@@ -1,5 +1,6 @@
 package com.gregchaves.jumper.elements;
 
+import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 
@@ -17,18 +18,20 @@ public class Tubes {
     private static final int DISTANCE_BETWEEN_TUBES = 250;
     private GameDisplay gameDisplay;
     private Score score;
+    private Context context;
 
     private List<Tube> tubes = new ArrayList<Tube>();
 
-    public Tubes(GameDisplay gameDisplay, Score score){
+    public Tubes(Context context, GameDisplay gameDisplay, Score score){
+        this.context = context;
         this.gameDisplay = gameDisplay;
         this.score = score;
 
-        int position = 200;
+        int position = 800;
 
         for(int i = 0; i < QTT_TUBES; i++) {
             position += DISTANCE_BETWEEN_TUBES;
-            this.tubes.add(new Tube(gameDisplay, position));
+            this.tubes.add(new Tube(context, gameDisplay, position));
         }
     }
 
@@ -49,7 +52,7 @@ public class Tubes {
                 if (tube.tubeOutOfScreen()) {
                     this.score.up();
                     tubeListIterator.remove();
-                    Tube anotherTube = new Tube(this.gameDisplay, maxPosition() + DISTANCE_BETWEEN_TUBES);
+                    Tube anotherTube = new Tube(this.context, this.gameDisplay, maxPosition() + DISTANCE_BETWEEN_TUBES);
                     tubeListIterator.add(anotherTube);
                 }
             }

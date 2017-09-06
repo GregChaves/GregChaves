@@ -13,6 +13,8 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.gregchaves.jumper.com.gregchaves.jumper.engine.GameDisplay;
+import com.gregchaves.jumper.com.gregchaves.jumper.engine.Sound;
+import com.gregchaves.jumper.com.gregchaves.jumper.engine.Time;
 import com.gregchaves.jumper.com.gregchaves.jumper.engine.VerifyCollision;
 import com.gregchaves.jumper.elements.Bird;
 import com.gregchaves.jumper.elements.Score;
@@ -37,21 +39,30 @@ public class Game extends SurfaceView implements Runnable, View.OnTouchListener{
 
     private VerifyCollision verifyCollision;
 
+    private Context context;
+
+    private Sound sound;
+
+    private Time time;
+
     private final SurfaceHolder holder = getHolder();
 
     public Game(Context context) {
         super(context);
+        this.context = context;
+        this.sound = new Sound(context);
         this.gameDisplay = new GameDisplay(context);
         initElements();
         setOnTouchListener(this);
     }
 
     private void initElements(){
+        this.time = new Time();
         Bitmap back = BitmapFactory.decodeResource(getResources(), R.drawable.background);
         this.background = Bitmap.createScaledBitmap(back, back.getWidth(), gameDisplay.getHeight(), false);
-        this.bird = new Bird(this.gameDisplay);
-        this.score = new Score();
-        this.tubes = new Tubes(this.gameDisplay, score);
+        this.bird = new Bird(this.gameDisplay, this.context, this.sound, this.time);
+        this.score = new Score(this.sound);
+        this.tubes = new Tubes(this.context, this.gameDisplay, score);
 
         this.verifyCollision = new VerifyCollision(bird, tubes);
     }
@@ -60,29 +71,36 @@ public class Game extends SurfaceView implements Runnable, View.OnTouchListener{
     public void run() {
         while(this.isRunning){
 
-            if (this.verifyCollision.hasCollision()){
-               cancel();
-            }
-
      //verifica se o holder eh valido antes de desenhar qualquer coisa na tela
             if(!this.holder.getSurface().isValid()) continue;
 
             //obtem o canvas
             Canvas canvas = this.holder.lockCanvas();
+
             // desenha o fundo
             canvas.drawBitmap(this.background, 0, 0, null);
+
             //desenha o passaro
             this.bird.drawIn(canvas);
-            this.bird.fall();
+            this.bird.fly();
 
             //desenha canos
             this.tubes.drawIn(canvas);
 
+            //desenha a pontuacao
+            this.score.drawIn(canvas);
+
+            //solta o tempo
+            this.time.pass();
+
             // move os canos
             this.tubes.move();
 
-            //desenha a pontuacao
-            this.score.drawIn(canvas);
+            if (this.verifyCollision.hasCollision()){
+                this.sound.play(Sound.COLLISION);
+                new GameOver(this.gameDisplay).drawnIn(canvas);
+                cancel();
+            }
 
             this.holder.unlockCanvasAndPost(canvas);
         }

@@ -31,4 +31,14 @@ public class Colors {
         return white;
     }
 
+    public static Paint getGameOverColor(){
+        Paint red = new Paint();
+        red.setColor(0xFFFF0000);
+        red.setTextSize(50);
+        red.setTypeface(Typeface.DEFAULT_BOLD);
+        red.setShadowLayer(2, 3, 3, 0xFFFF0000);
+        return red;
+
+    }
+
 }

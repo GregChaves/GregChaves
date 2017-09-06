@@ -21,4 +21,8 @@ public class GameDisplay {
     public int getHeight(){
         return this.metrics.heightPixels;
     }
+
+    public int getWidth(){
+        return this.metrics.widthPixels;
+    }
 }

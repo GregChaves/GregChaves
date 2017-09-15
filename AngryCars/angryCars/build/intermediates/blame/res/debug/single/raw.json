@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\raw\\shoot.wav",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\src\\main\\res\\raw\\shoot.wav"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\raw\\effect.mp3",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\cocos2d_android\\build\\intermediates\\bundles\\default\\res\\raw\\effect.mp3"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\raw\\smb_coin.wav",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\src\\main\\res\\raw\\smb_coin.wav"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\raw\\smb_mariodie.wav",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\src\\main\\res\\raw\\smb_mariodie.wav"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\raw\\backsound.mp3",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\cocos2d_android\\build\\intermediates\\bundles\\default\\res\\raw\\backsound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\raw\\super_mario_medley.mp3",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\src\\main\\res\\raw\\super_mario_medley.mp3"
+    }
+]

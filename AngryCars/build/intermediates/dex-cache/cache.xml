@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\67f76110f8e016e4cd39336d27bb26ac443faaea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be83c9716aeb9a673998e7800de76cea07b115c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\a39f56b2ab94c5297537da38628b1e9edd9aea1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed5f762db105e67ad078cb0a0ac511b541b5a294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="993aa5461dc14a90777550f472f288bba17b43da">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0e1736a59a0d8297157d9727165bc43466f58b1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a9eae5a369cd56d34cb6659146b1f3256126cbf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\b0fae27740a85c48c8187876f225eb0ec50fa400\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66e27fc89f874b7384f623cb0c30a65f17a744cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\a4f23b29bd63a94960c92bacc52e8064a0d06500\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6810c50ce7c81c624fc295ff941c899090e891f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\53e3e87baebfe49a3320d070c7fc9b0f1e4b280a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba0ce7fa2599271b3282bf7b03ed9a3bbd39cee1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\libs\Swarm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac7891a651cfb16f23f4f137f78b484fff3b35d4">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\8\Swarm_fbe876901cd51c539facd160f4d869dc77c8449a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\e097f454e5c62afb4115822a3edc3e39cd490081\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5793b82e3189bac0cb0ca52c59a0e8986224dfe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\269fb730172f7febe7bfda5da10078d52b551e2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9821dbd01776e3db1e4b48536f7c1c06fe5f0ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\7e6e75477a86e632ee394a8f4f1f2a224ca239bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_618baeafcf16582922424edf425d3e713e1d89c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\libs\cocos2d-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efd5ccd31b33804b4b43837050d8546af70817f2">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\8\cocos2d-android_ecb9da996f353c8385d1f98576355a984d517f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_4df827d45a1111c77ab6c7c08473a8fd643112a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbritoch\.android\build-cache\d34b4daf1740a5dd6085d210087b4cc411c23ffe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ceb713061e7bd64e2fbc6af38a1da3df994f957\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Fri Sep 01 14:57:21 BRT 2017
+base.0=C\:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e1736a59a0d8297157d9727165bc43466f58b1e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a9eae5a369cd56d34cb6659146b1f3256126cbf7\\classes.dex
+base.1=C\:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a9eae5a369cd56d34cb6659146b1f3256126cbf7
+file.0=C\:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e1736a59a0d8297157d9727165bc43466f58b1e\\classes.dex

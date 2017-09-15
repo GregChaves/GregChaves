@@ -1,0 +1,374 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:9:5-15:11
+MERGED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\269fb730172f7febe7bfda5da10078d52b551e2b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\7e6e75477a86e632ee394a8f4f1f2a224ca239bb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\53e3e87baebfe49a3320d070c7fc9b0f1e4b280a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\b0fae27740a85c48c8187876f225eb0ec50fa400\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\d34b4daf1740a5dd6085d210087b4cc411c23ffe\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\a4f23b29bd63a94960c92bacc52e8064a0d06500\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\e097f454e5c62afb4115822a3edc3e39cd490081\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\a39f56b2ab94c5297537da38628b1e9edd9aea1b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\67f76110f8e016e4cd39336d27bb26ac443faaea\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:9:5-15:11
+	android:targetSdkVersion
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:17:5-34:19
+MERGED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:16:5-28:19
+MERGED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:11:5-271:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\269fb730172f7febe7bfda5da10078d52b551e2b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\7e6e75477a86e632ee394a8f4f1f2a224ca239bb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\53e3e87baebfe49a3320d070c7fc9b0f1e4b280a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\b0fae27740a85c48c8187876f225eb0ec50fa400\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\d34b4daf1740a5dd6085d210087b4cc411c23ffe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\a4f23b29bd63a94960c92bacc52e8064a0d06500\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\e097f454e5c62afb4115822a3edc3e39cd490081\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\a39f56b2ab94c5297537da38628b1e9edd9aea1b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\67f76110f8e016e4cd39336d27bb26ac443faaea\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:20:9-41
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:12:9-34
+	android:allowBackup
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:19:9-45
+		REJECTED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:21:9-44
+	tools:replace
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:22:9-37
+activity#com.chaves.angrycars.MainActivity
+ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:24:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:29:27-74
+activity#com.chaves.angrycars.SwarmMainActivity
+ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from C:\Users\gbritoch\AndroidStudioProjects\AngryCars\angryCars\src\main\AndroidManifest.xml:32:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:14:22-72
+activity#com.swarmconnect.SwarmMainActivity
+ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:17:9-23:57
+	android:screenOrientation
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:20:13-34
+	android:windowSoftInputMode
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:23:13-54
+	android:configChanges
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:19:13-63
+	android:theme
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:18:13-62
+service#com.swarmconnect.NotificationService
+ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:25:9-27:40
+	android:process
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [AngryCars:swarmConnect:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\swarmConnect\build\intermediates\bundles\default\AndroidManifest.xml:26:13-64
+activity#org.cocos2d.Cocos2D
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:16:13-47
+activity#org.cocos2d.tests.ActionManagerTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:33:9-44:20
+	android:screenOrientation
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:38:13-50
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:36:13-63
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:37:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:34:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.TEST
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:39:13-43:29
+category#android.intent.category.TEST
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:42:17-73
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:42:27-70
+activity#org.cocos2d.tests.ActionsTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:45:9-56:20
+	android:screenOrientation
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:50:13-50
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:48:13-57
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:49:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:47:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:46:13-57
+activity#org.cocos2d.tests.AtlasTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:57:9-68:20
+	android:screenOrientation
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:62:13-50
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:60:13-55
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:61:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:59:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:58:13-55
+activity#org.cocos2d.tests.Box2dTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:69:9-80:20
+	android:screenOrientation
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:74:13-50
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:72:13-55
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:73:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:71:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:70:13-55
+activity#org.cocos2d.tests.ClickAndMoveTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:81:9-92:20
+	android:screenOrientation
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:84:13-62
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:85:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:83:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:82:13-62
+activity#org.cocos2d.tests.CocosNodeTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:93:9-104:20
+	android:screenOrientation
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:98:13-50
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:96:13-59
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:97:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:95:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:94:13-59
+activity#org.cocos2d.tests.DrawPrimitivesTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:105:9-115:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:108:13-64
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:109:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:107:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:106:13-64
+activity#org.cocos2d.tests.EaseActionsTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:116:9-126:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:119:13-61
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:120:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:118:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:117:13-61
+activity#org.cocos2d.tests.EffectsAdvancedTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:127:9-137:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:130:13-65
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:131:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:129:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:128:13-65
+activity#org.cocos2d.tests.EffectsTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:138:9-148:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:141:13-57
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:142:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:140:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:139:13-57
+activity#org.cocos2d.tests.MenuTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:149:9-159:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:152:13-54
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:153:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:151:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:150:13-54
+activity#org.cocos2d.tests.ParticleTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:160:9-171:20
+	android:screenOrientation
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:165:13-50
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:163:13-57
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:164:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:162:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:161:13-58
+activity#org.cocos2d.tests.SchedulerTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:172:9-182:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:175:13-59
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:176:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:174:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:173:13-59
+activity#org.cocos2d.tests.TileMapTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:183:9-193:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:186:13-57
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:187:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:185:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:184:13-57
+activity#org.cocos2d.tests.MotionStreakTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:194:9-204:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:197:13-62
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:198:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:196:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:195:13-62
+activity#org.cocos2d.tests.ParallaxTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:205:9-215:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:208:13-58
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:209:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:207:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:206:13-58
+activity#org.cocos2d.tests.SceneTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:216:9-226:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:219:13-55
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:220:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:218:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:217:13-55
+activity#org.cocos2d.tests.SoundEngineTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:227:9-237:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:230:13-61
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:231:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:229:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:228:13-61
+activity#org.cocos2d.tests.SpritesTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:238:9-248:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:241:13-57
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:242:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:240:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:239:13-57
+activity#org.cocos2d.tests.TransitionsTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:249:9-259:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:252:13-61
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:253:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:251:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:250:13-61
+activity#org.cocos2d.tests.RotateWorldTest
+ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:260:9-270:20
+	android:label
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:263:13-61
+	android:launchMode
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:264:13-48
+	android:debuggable
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:262:13-38
+	android:name
+		ADDED from [AngryCars:cocos2d_android:unspecified] C:\Users\gbritoch\AndroidStudioProjects\AngryCars\cocos2d_android\build\intermediates\bundles\default\AndroidManifest.xml:261:13-61
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\269fb730172f7febe7bfda5da10078d52b551e2b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\7e6e75477a86e632ee394a8f4f1f2a224ca239bb\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\53e3e87baebfe49a3320d070c7fc9b0f1e4b280a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\b0fae27740a85c48c8187876f225eb0ec50fa400\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\d34b4daf1740a5dd6085d210087b4cc411c23ffe\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\a4f23b29bd63a94960c92bacc52e8064a0d06500\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\e097f454e5c62afb4115822a3edc3e39cd490081\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\a39f56b2ab94c5297537da38628b1e9edd9aea1b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\67f76110f8e016e4cd39336d27bb26ac443faaea\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\269fb730172f7febe7bfda5da10078d52b551e2b\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gbritoch\.android\build-cache\269fb730172f7febe7bfda5da10078d52b551e2b\output\AndroidManifest.xml:26:9-47

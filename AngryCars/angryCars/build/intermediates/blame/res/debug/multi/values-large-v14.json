@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v14\\values-large-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\values-large-v14\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 108,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 119,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\values-large-v14\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 120,
+                        "endOffset": 282
+                    }
+                }
+            }
+        ]
+    }
+]

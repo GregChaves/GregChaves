@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\cocos2d_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\backsound.mp3",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\cocos2d_android\\build\\intermediates\\bundles\\debug\\res\\raw\\backsound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\cocos2d_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\effect.mp3",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\cocos2d_android\\build\\intermediates\\bundles\\debug\\res\\raw\\effect.mp3"
+    }
+]

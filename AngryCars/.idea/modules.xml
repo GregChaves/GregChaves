@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AngryCars.iml" filepath="$PROJECT_DIR$/AngryCars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angryCars/angryCars.iml" filepath="$PROJECT_DIR$/angryCars/angryCars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cocos2d_android/cocos2d_android.iml" filepath="$PROJECT_DIR$/cocos2d_android/cocos2d_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swarmConnect/swarmConnect.iml" filepath="$PROJECT_DIR$/swarmConnect/swarmConnect.iml" />
+    </modules>
+  </component>
+</project>

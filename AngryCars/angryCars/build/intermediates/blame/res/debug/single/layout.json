@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_friends.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_load_more.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_load_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_slide_menu.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_slide_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_loading_popup.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_loading_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_header_external.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_header_external.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_generic_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_generic_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_settings.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_invite_friends_list_header.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_invite_friends_list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_store_category.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_store_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_search.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_create_account.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_webview.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_leaderboard_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_leaderboard_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_store.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_prof_geo_popup.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_prof_geo_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_get_coins.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_get_coins.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_share_popup.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_share_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_featured_app_popup.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_featured_app_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_purchase_popup.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_purchase_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_thread_row_other.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_thread_row_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_invite_friend_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_invite_friend_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_dashboard_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_dashboard_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_block_horizontal.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_block_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_popup_header.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_popup_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_upgrade_guest.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_upgrade_guest.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_featured_app_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_featured_app_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_block_generic.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_block_generic.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_crop_selector.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_crop_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_inbox_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_inbox_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_friends_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_friends_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_lost_password.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_lost_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_slide_menu_header.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_slide_menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_achievement_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_achievement_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_store_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_store_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_list_section_header.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_list_section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_leaderboard_list.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_leaderboard_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_header.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_profile.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_thread.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_thread.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_prof_details_popup.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_prof_details_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_generic_dialog.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_generic_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_login.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_block_list.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_block_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_loading_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_loading_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_thread_row_self.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_thread_row_self.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_app_details.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_app_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_inventory.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_block_title.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_block_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_list.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_store_category_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_store_category_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_slide_menu_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_slide_menu_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_invite_friends.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_invite_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\swarm_app_row.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\layout\\swarm_app_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

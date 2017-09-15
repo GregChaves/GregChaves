@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_purchase_popup_header.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_purchase_popup_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_block_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_block_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_messages_light_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_messages_light_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_close.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_close.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_offline_error_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_offline_error_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_user.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_user.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_facebook_button.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_facebook_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_checkmark.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_friends_light_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_friends_light_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_twitter.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_trophy_light_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_trophy_light_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_store_light_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_store_light_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_purchase_popup_cancel_button.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_purchase_popup_cancel_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_purchase_popup_tophalf.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_purchase_popup_tophalf.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_trophy_light_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_trophy_light_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_popup_background_rect.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_popup_background_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_settings_dark_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_settings_dark_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_row_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_row_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_header_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_search_light.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_search_light.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_reply.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_reply.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_settings_light_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_settings_light_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_messages_dark_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_messages_dark_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_google.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_google.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_geo.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_geo.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_add_friend.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_trophy.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_balloon.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_balloon.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_camera.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_selectable_row_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_selectable_row_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_trophy_dark_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_trophy_dark_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_footer_button_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_footer_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_coin_provider_button.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_coin_provider_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_coin_small.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_coin_small.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_leaderboards_dark_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_leaderboards_dark_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_leaderboards_dark_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_leaderboards_dark_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_quit.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_quit.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_store_light_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_store_light_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_mail_grey.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_mail_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_blue_button.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_blue_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_games_dark_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_games_dark_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_edit.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_bubble_arrow_left.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_bubble_arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_profile_pic_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_profile_pic_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_bubble_arrow.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_bubble_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_panel_background.9.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_panel_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_friends_dark_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_friends_dark_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_games_light_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_games_light_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_search.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_search.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_purchase_popup_buy_button.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_purchase_popup_buy_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_message_speech_bubble_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_message_speech_bubble_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_trophy_grey.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_trophy_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_popup_header_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_popup_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_head.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_head.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_sub_header_button.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_sub_header_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_coin.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_coin.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_friends_light_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_friends_light_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_logo.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_list.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_list.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_settings_light_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_settings_light_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_footer_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_footer_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_icon.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_leaderboards_light_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_leaderboards_light_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_slide_menu_gradient.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_slide_menu_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_user_light_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_user_light_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_x.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_x.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_store_dark_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_store_dark_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_messages_dark_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_messages_dark_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_share.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_share.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_trophy_dark_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_trophy_dark_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_checkmark_green.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_checkmark_green.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\1d5bcef57d02ec4de991df3cd0c07525aecef9d6\\output\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_mail.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_leaderboards_light_med.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_leaderboards_light_med.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_friends_dark_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_friends_dark_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_right_chev.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_right_chev.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_green_button.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_green_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_trophy_gold.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_trophy_gold.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_messages_light_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_messages_light_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_white_rounded_corners.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_white_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_facebook.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\cocos2d_android\\build\\intermediates\\bundles\\default\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_grey_button.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_grey_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_games_light_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_games_light_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\gbritoch\\.android\\build-cache\\269fb730172f7febe7bfda5da10078d52b551e2b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_contextual_grey_background.xml",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_contextual_grey_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\angryCars\\build\\intermediates\\res\\merged\\debug\\drawable\\swarm_trophy_gold_sm.png",
+        "source": "C:\\Users\\gbritoch\\AndroidStudioProjects\\AngryCars\\swarmConnect\\build\\intermediates\\bundles\\default\\res\\drawable\\swarm_trophy_gold_sm.png"
+    }
+]
